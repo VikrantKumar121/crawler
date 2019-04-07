@@ -1,4 +1,4 @@
-# my-first-repository
+# WebScrapping
 
 
 ```python
@@ -8,3 +8,7 @@ data.get_all_country_name()
 data.get_country_details('[countryname]')   
 data.get_country_name('[countryname]')       
 ```
+
+
+## *Developed by:* Vikrant Kumar
+### *Script Version:* V1.0
