@@ -1,5 +1,6 @@
 # WebScrapping
 
+-Run country_codes_scraper.py
 
 ```python
 python country_codes_scraper.py -o output.txt
