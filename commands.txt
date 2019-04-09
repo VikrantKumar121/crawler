@@ -1,5 +1,5 @@
 python country_codes_scraper.py -o output.txt
 data = CountryDataCodes('output.txt')
 data.get_all_country_name()
-data.get_country_details('germany')    // any country name
-data.get_country_name('germany')       //  any country name
+data.get_country_details('countryname')    // any country name
+data.get_country_name('countryname')       //  any country name
